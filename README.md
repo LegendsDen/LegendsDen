@@ -28,17 +28,9 @@ I'm a passionate developer and problem solver who enjoys building efficient syst
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushant7404&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant7404&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LegendsDen&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendsDen&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
----
-
-## 📌 Top Repositories
-
-- [Campus Collaboration Portal](https://github.com/Tanmay7404/Campus_Collaboration_Kapili) – A web app for discovering and collaborating on academic projects and courses.
-- [Codeforces Helper](https://github.com/LegendsDen/CodeForces) – Analyze performance, filter problems by tags, and predict ratings using ML.
-- [DBMS Simulator](https://github.com/Sushant7404/YourRepoHere) – Custom database engine using B+ Trees, SQL parsing, and virtual machine execution.
 
 ---
 
