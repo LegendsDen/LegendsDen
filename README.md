@@ -8,8 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a passionate developer and problem solver who enjoys building efficient systems and exploring the inner workings of technology. From full-stack web development to systems design and competitive programming, I love diving deep into technical challenges and turning ideas into impactful solutions.
+Rinnegan
 
 ---
 
