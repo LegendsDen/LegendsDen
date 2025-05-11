@@ -22,7 +22,7 @@ Rinnegan
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegendsDen&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendsDen&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendsDen&layout=compact&exclude_repo=Heart-Disease-Prediction-CS361&theme=tokyonight" height="180"/>
 </p>
 
 ---
