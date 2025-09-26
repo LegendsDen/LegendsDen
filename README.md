@@ -29,8 +29,8 @@ Rinnegan
 
 ## 🌐 Find Me on Competitive Platforms
 
-- 🔗 [Codeforces Profile](https://codeforces.com/profile/YourUsernameHere)
-- 🔗 [AtCoder Profile](https://atcoder.jp/users/YourUsernameHere)
+- 🔗 [Codeforces Profile]([https://codeforces.com/profile/YourUsernameHere](https://codeforces.com/profile/Sushant81))
+- 🔗 [AtCoder Profile]([https://atcoder.jp/users/YourUsernameHere](https://atcoder.jp/users/Sushant81))
 
 ---
 
